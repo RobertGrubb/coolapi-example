@@ -1,0 +1,5 @@
+*.log
+database/**/*.json
+.DS_Store
+composer.lock
+vendor
